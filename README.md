@@ -1,7 +1,9 @@
 animation-timing
 ================
 
-Timing control for script-based animations (aka Animation Timing, aka RequestAnimationFrame, aka RAF) draft spec from webperf
+Timing control for script-based animations (aka Animation Timing, aka RequestAnimationFrame, aka RAF)
+
+This repository is no longer active.
 
 See
-  https://w3c.github.io/animation-timing/
+  http://www.w3.org/TR/html51/webappapis.html#animation-frames
